@@ -1,0 +1,11 @@
+x = 5 
+if(2 * x > 10):
+    print("Question 1 works")
+else:
+    print("oooo needs some work")
+
+x = 5
+if(len("Dog") < x):
+    print("Question 2 works!")
+else:
+    print("still missing out")
